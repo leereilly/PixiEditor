@@ -17,7 +17,7 @@
 ## About PixiEditor
 
 Want to create beautiful pixel art for your games? PixiEditor can help you! Our goal is to create a fully open-source, fast, and feature-rich pixel art creator. 
-
+ 
 ### Familiar interface
 
 Have you ever used Photoshop or Gimp? Reinventing the wheel is unnecessary, we wanted users to get familiar with the tool quickly and with ease. 
